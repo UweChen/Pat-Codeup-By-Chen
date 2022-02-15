@@ -1,5 +1,6 @@
 #include<cstdio>
 
+//struct可以结构体用来批处理文件，类似Python
 struct student
 {
     int num;
